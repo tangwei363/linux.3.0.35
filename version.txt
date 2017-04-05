@@ -1,0 +1,2 @@
+2015-06-01
+the first public version for imx6q 4 cores cpu.
